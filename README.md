@@ -7,3 +7,5 @@
 </pre>
 Welcome to my MajorMUD repository!
 I'm collecting and curating all things that are MajorMUD. I'm also working on MajorMUD.wiki curating content and files to preserve MajoorMUD's legacy as one of the best BBS games in history. 
+
+Join us on our Discord server by clicking here: https://discord.gg/t8ta7pAppK. 
